@@ -30,7 +30,7 @@ brew install --cask gymgym
 ### 업데이트 방법
 설치 후 새로운 버전이 출시되었을 경우, 아래 명령어를 통해 최신 버전으로 업데이트할 수 있습니다.
 ```bash
-brew upgrade --cask gymgym
+brew upgrade gymgym
 ```
 
 ---
